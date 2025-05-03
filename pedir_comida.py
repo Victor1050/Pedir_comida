@@ -129,3 +129,6 @@ class PedidoApp(App):
 
 if __name__ == '__main__':
     PedidoApp().run()
+
+"""Teste"""
+"""Teste2""" 
